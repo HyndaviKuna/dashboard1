@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/HyndaviKuna/dashboardapp/static/css/main.9bc49165.css",
+    "main.js": "/HyndaviKuna/dashboardapp/static/js/main.676c0006.js",
+    "static/media/arrow.png": "/HyndaviKuna/dashboardapp/static/media/arrow.5d17fb978212e02fe005.png",
+    "index.html": "/HyndaviKuna/dashboardapp/index.html",
+    "main.9bc49165.css.map": "/HyndaviKuna/dashboardapp/static/css/main.9bc49165.css.map",
+    "main.676c0006.js.map": "/HyndaviKuna/dashboardapp/static/js/main.676c0006.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9bc49165.css",
+    "static/js/main.676c0006.js"
+  ]
+}
